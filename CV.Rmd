@@ -3,18 +3,19 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: latex_temp/template.tex
-    includes:
-     in_header: latex_temp/header.tex
+    #includes:
+    # in_header: latex_temp/header.tex
 geometry: margin=0.5in
 
 title: "CV"
-author: 余季霖 Chi-Lin Yu
+author: Chi-Lin Yu
 
-address: "臺北市大安區羅斯福路四段1號，國立臺灣大學心理學系，北館 N211 室"
+address: "N211, Psychology Department, National Taiwan University, No. 1, Sec. 4, Roosevelt Rd., Taipei, Taiwan"
 fontawesome: no
 email: psychilinyu@gmail.com
 phone: "+886-970992503"
 github: PsyChiLin
+#web: psychilin.github.io
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -26,43 +27,170 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# EDUCATION **學歷**
+# EDUCATION
 
-國立臺灣大學, 心理學系碩士在學 \hfill 2017-今
+National Taiwan University (NTU), Taipei, Taiwan \hfill 2017/2-present
 
-國立成功大學, 心理學系學士畢業 \hfill 2012-2016
+Degree: M.S. Psychology
 
-# JOURNAL ARTICLES 期刊發表
+National Cheng Kung University (NCKU), Tainan, Taiwan  \hfill 2012/9-2016/7
 
-Yu, C. L., & Sheu, C. F. (2018) EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567
+Degree: B.S. Psychology
 
-Yu, C. L., Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
+# PROFESSIONAL EXPERIENCE
 
-# SELECTED CONFERENCE PRESENTATIONS 會議發表
+## NTU, Language Neuroscience Laboratory (Mentor: Prof. Tai-Li Chou)
 
-Yu, C. L., Sheu, C. F. (2017) “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
+-- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
 
-Yu, C. L., Sheu, C. F., et al. (2017) “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+-- Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.
 
-Yu, C. L., Sheu, C. F., et al. (2016) “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+-- Understand the differences in neural correlates of semantic processing between typical developing
+subjects and schizophrenia patients.
 
-Yu, C. L., et al. (2015) “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+-- Investigate language comprehension and the corresponding neural activities in bilingual adults.
 
-# AWARDS & HONORS 獲獎經歷
+-- Design a new analysis method that implement machine learning algorithms to analyze near functional infrared spectroscopy (fNIRS) data.
 
-2016 國立成功大學王唯農校長紀念獎學金
+-- Establish a model to interpret the mechanism of human empathy.
+ 
+## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu)
 
-2015 國立成功大學優良學生書卷獎
+-- Pioneer Taiwan’s fNIRS research to explore the neural mechanism of first impression formation.
 
-# SELECTED EXTRACURRICULAR 課外活動
+-- Adopt behavioral experiments in embodied perspective to probe semantic properties of emotion words.
 
-2016 畢業生代表, 國立成功大學心理學系
+-- Develop fMRI study to investigate the underlying relationships between ToM and humor processing.
 
-2015 在校生代表, 國立成功大學心理學系
+-- Establish the valid and reliable scale to measure self-report empathy ability
 
-2015 隊輔長, 國立成功大學心理學系第四屆心理營
+-- Design developmental experiments to understand the interaction between ToM, empathy and social development.
 
-2014 活動長, 國立成功大學心理學系2014心理之夜
+## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen)
 
-2014 值星官, 國立成功大學心理學系107級迎新宿營
+-- Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
 
+-- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
+
+-- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
+
+## NCKU, Institute of Education (Mentor: Prof. Ching-Fan Sheu)
+
+-- Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R
+
+-- Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis
+
+# PUBLICATIONS
+
+## Journal Articles
+
+**Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567
+
+**Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
+
+## Journal Articles : Under Review
+
+**Yu, C. L.** & Chou, T. L. “A Dual Route Model of Empathy: A Neurobiological Prospective”
+
+**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
+
+Hu, J. F., **Yu, C. L.**, et al. “The Role of Theory of Mind Ability in Verbal Humor
+Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
+  
+## Journal Articles : In Preparation
+
+**Yu, C. L.**, Chou, T. L., et al. “Aberrant Functional Brain Organization of Youths with Autism: An Theory of Mind Network Perspective”
+
+**Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
+
+**Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
+
+**Yu, C. L.**, et al. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words:An Embodied Cognition Approach”
+
+Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empathy Quotient”
+
+## Conference Presentations
+
+**Yu, C. L.**, Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
+
+**Yu, C. L.**, Sheu, C. F., et al. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+
+**Yu, C. L.**, Sheu, C. F., et al. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+
+**Yu, C. L.**, et al. (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+
+Chu, C., **Yu, C. L.**, et al. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+
+Tsai Y. L.,**Yu, C. L.**, et al. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+
+Chuang Y. Y., **Yu, C. L.**, et al. (2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
+
+Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
+
+
+# TEACHING EXPERIENCE
+
+2017 Teaching Assistant, General Psychology Course, Mentor: Prof. Tai-Li Chou, PhD
+
+2016 Teaching Assistant, Cognitive Neuroscience Course, Mentor: Prof. Shu-Lan Hsieh
+
+2016 Teaching Assistant, Assessment Practicum Developmental Psychology Course, Mentor: Prof. Jon-Fan Hu
+
+2016 Teaching Assistant, Seminar on Emotion and Memory Course, Mentor: Prof. Der-Yow Chen, PhD
+
+# AWARDS & HONORS
+
+2016 NCKU President Wei-Noon Wang Memorial Scholarship
+
+2016 KYMCO Scholarship for outstanding student
+
+2016 Ren-Da Industrial Park outstanding student scholarship
+
+2016 Rank 1st in the class of NCKU psychology department in 2015~2016 academic year 
+
+2015 The title of outstanding student for the academic achievement
+
+2015 Rank 1st in the class of NCKU psychology department in 2014~2015 academic year
+
+2015 Tainan True Jesus Church outstanding student scholarship
+
+2015 Taiwan Ministry of Science and Technology Research Scholarship (Students : Wang, M. Y. , Yu, C. L., et al.; Project Number:104-2815-C-006-149–H)
+
+2014 Tainan True Jesus Church outstanding student scholarship
+
+2014 The second place award of posters in the Experimental Psychology Course
+
+# SKILLS
+
+Languages: Mandarin: Native Fluency; English/Taiwanese: Excellent Fluency
+   
+Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and Analysis, Statical Modeling
+
+Computer programing: R, MATLAB, SPM, E-PRIME, HOMER, Oro.Nifti, ANTsR, fslR
+
+# SELECTED EXTRACURRICULAR
+
+2016 Valedictorian, Department of Psychology, NCKU
+
+2015 Representatives of Students in School, Department of Psychology, NCKU
+
+2015 Chief Counselor, Psychology Summer Camp, NCKU
+
+2015 Volunteer Assistant, The 7th Annual Taiwan Association of Clinical Psychology Meeting 
+
+2015 Symposium Student for resting state fMRI, Mind Research and imaging center, NCKU
+
+2015 Symposium Student for Cognitive Neuroscience of Aging, Mind Research and imaging center,
+NCKU
+
+2014 Activity Leader, The Night of Psychology, NCKU
+
+2014 Execute Officer, Psychology Freshman Camp, NCKU
+
+2014 Chief Counselor, Kaohsiung Area Alumni Association, NCKU 
+
+2013 Leader, The Week of Psychology, NCKU
+
+2013 Member, Students Association in department of psychology, NCKU 
+
+2013 Program Director, Psychology Summer Camp, NCKU
