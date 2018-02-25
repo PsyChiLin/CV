@@ -1,8 +1,8 @@
 ## Chi-Lin Yu - CV
 
-This repository contains the files that used to create Chi-Lin Yu's CV. Latex and R markdown are major tools. 
+This repository contains the files that used to create Chi-Lin Yu's CV. R markdown and `knitr` are major tools. PDF output requires `TeX` (`MikTeX` on Windows; `MacTex` on macOS). The `xeCJK` TeX package should be installed for building fonts in Taiwanese Mandarin (e.g., 標楷體).
 
-A full version in English can be found. Also, a Taiwan Mandarin version is provided for demonstration purposes. 
+In this repository, a full version CV in English can be found. Also, a Taiwan Mandarin version is provided for demonstration purposes.
 
 ## References
 
