@@ -1,0 +1,68 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: latex_temp/template.tex
+    includes:
+     in_header: latex_temp/header.tex
+geometry: margin=0.5in
+
+title: "CV"
+author: 余季霖 Chi-Lin Yu
+
+address: "臺北市大安區羅斯福路四段1號，國立臺灣大學心理學系，北館 N211 室"
+fontawesome: no
+email: psychilinyu@gmail.com
+phone: "+886-970992503"
+github: PsyChiLin
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION **學歷**
+
+國立臺灣大學, 心理學系碩士在學 \hfill 2017-今
+
+國立成功大學, 心理學系學士畢業 \hfill 2012-2016
+
+# JOURNAL ARTICLES 期刊發表
+
+Yu, C. L., & Sheu, C. F. (2018) EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567
+
+Yu, C. L., Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
+
+# SELECTED CONFERENCE PRESENTATIONS 會議發表
+
+Yu, C. L., Sheu, C. F. (2017) “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
+
+Yu, C. L., Sheu, C. F., et al. (2017) “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+
+Yu, C. L., Sheu, C. F., et al. (2016) “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+
+Yu, C. L., et al. (2015) “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+
+# AWARDS & HONORS 獲獎經歷
+
+2016 國立成功大學王唯農校長紀念獎學金
+
+2015 國立成功大學優良學生書卷獎
+
+# SELECTED EXTRACURRICULAR 課外活動
+
+2016 畢業生代表, 國立成功大學心理學系
+
+2015 在校生代表, 國立成功大學心理學系
+
+2015 隊輔長, 國立成功大學心理學系第四屆心理營
+
+2014 活動長, 國立成功大學心理學系2014心理之夜
+
+2014 值星官, 國立成功大學心理學系107級迎新宿營
+
