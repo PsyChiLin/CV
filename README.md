@@ -1,6 +1,6 @@
 ## Chi-Lin Yu - CV
 
-This repository contains the files that used to create Chi-Lin Yu's CV. Latex and R markdown are major tools to build my CV. A full version in English can be found. Also, a Taiwan Mandarin version are provided for demonstration purposes. 
+This repository contains the files that used to create Chi-Lin Yu's CV. Latex and R markdown are major tools to build my CV. A full version in English can be found. Also, a Taiwan Mandarin version is provided for demonstration purposes. 
 
 ## References
 
