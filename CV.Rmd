@@ -3,8 +3,8 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: latex_temp/template.tex
-    #includes:
-    # in_header: latex_temp/header.tex
+    includes: 
+      in_header: latex_temp/header.tex
 geometry: margin=0.5in
 
 title: "CV"
