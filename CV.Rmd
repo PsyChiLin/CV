@@ -84,7 +84,7 @@ subjects and schizophrenia patients.
 
 ## Journal Articles
 
-**Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567
+**Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
 
 **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
 
@@ -111,6 +111,8 @@ Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empath
 
 ## Conference Presentations
 
+**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
+
 **Yu, C. L.**, Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
 
 **Yu, C. L.**, Sheu, C. F., et al. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
@@ -129,6 +131,8 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 
 
 # TEACHING EXPERIENCE
+
+2018 Teaching Assistant, Brain and Language Course (English-Taught), Mentor: Prof. Tai-Li Chou
 
 2017 Teaching Assistant, General Psychology Course, Mentor: Prof. Tai-Li Chou
 
