@@ -111,6 +111,9 @@ Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empath
 
 ## Conference Presentations
 
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+
+
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
 
 **Yu, C. L.**, Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
