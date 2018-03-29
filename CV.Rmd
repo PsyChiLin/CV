@@ -99,7 +99,7 @@ Comprehension: A functional magnetic resonance imaging study” *(As the corresp
   
 ## Journal Articles : In Preparation
 
-**Yu, C. L.**, Chou, T. L., et al. “Aberrant Functional Brain Organization of Youths with Autism: An Theory of Mind Network Perspective”
+**Yu, C. L.**, Chou, T. L., et al. “Aberrant Neural Organization of Youths with Autism”
 
 **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 
@@ -111,7 +111,7 @@ Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empath
 
 ## Conference Presentations
 
-**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", will be presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
 
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
@@ -147,7 +147,7 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 
 # AWARDS & HONORS
 
-2018 Government Fellowship for Studying Abroad
+2017 Taiwna Government PhD Fellowship for Studying Abroad (4 years full funding for studying PhD in U.S.)
 
 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 
