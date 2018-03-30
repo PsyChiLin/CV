@@ -94,41 +94,39 @@ subjects and schizophrenia patients.
 
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
 
-Hu, J. F., **Yu, C. L.**, et al. “The Role of Theory of Mind Ability in Verbal Humor
-Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
+Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
   
 ## Journal Articles : In Preparation
 
-**Yu, C. L.**, Chou, T. L., et al. “Aberrant Neural Organization of Youths with Autism”
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. “Aberrant Neural Organization of Youths with Autism”
 
-**Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
+**Yu, C. L.**, Causeur D., Shen, I. H., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 
 **Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
 
-**Yu, C. L.**, et al. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words:An Embodied Cognition Approach”
+**Yu, C. L.**, Hu, J. F., Chu, C. & Chuang Y. Y. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words:An Embodied Cognition Approach”
 
-Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empathy Quotient”
+Hu, J. F., **Yu, C. L.**, Hsiao, Y. R., Chou, L. F. & Wang, P, L. “The Development of Chinese version of Empathy Quotient”
 
 ## Conference Presentations
 
 **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", will be presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
 
-**Yu, C. L.**, Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
+**Yu, C. L.** & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
 
-**Yu, C. L.**, Sheu, C. F., et al. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+**Yu, C. L.**, Causeur, D., Lee, Y. s. & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
 
-**Yu, C. L.**, Sheu, C. F., et al. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+**Yu, C. L.**, Causeur, D., Shen, I. H. & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
 
-**Yu, C. L.**, et al. (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+**Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R. & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-Chu, C., **Yu, C. L.**, et al. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+Chu, C., **Yu, C. L.**, Chuang Y. Y., Tsai Y. L. & Hu, J. F. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-Tsai Y. L.,**Yu, C. L.**, et al. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+Tsai Y. L.,**Yu, C. L.**, Hsiao, Y. R., Cho, S. L., Chen, H. C. & Hu, J. F. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-Chuang Y. Y., **Yu, C. L.**, et al. (2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
+Chuang Y. Y., **Yu, C. L.**, Chu, C., Tsai Y. L. & Hu, J. F.(2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
 
 Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
 
