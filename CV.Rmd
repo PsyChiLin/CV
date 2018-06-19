@@ -29,7 +29,7 @@ urlcolor: blue
 
 # EDUCATION
 
-National Taiwan University (NTU), Taipei, Taiwan \hfill 2017/2-present
+National Taiwan University (NTU), Taipei, Taiwan \hfill 2017/2-2018/6
 
 Degree: M.S. Psychology
 
@@ -104,15 +104,15 @@ Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of 
 
 **Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
 
-**Yu, C. L.**, Hu, J. F., Chu, C. & Chuang Y. Y. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words:An Embodied Cognition Approach”
+**Yu, C. L.**, Hu, J. F., Chu, C. & Chuang Y. Y. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words: An Embodied Cognition Approach”
 
 Hu, J. F., **Yu, C. L.**, Hsiao, Y. R., Chou, L. F. & Wang, P, L. “The Development of Chinese version of Empathy Quotient”
 
 ## Conference Presentations
 
-**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", will be presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
+**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
 
 **Yu, C. L.** & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
 
@@ -145,7 +145,9 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 
 # AWARDS & HONORS
 
-2017 Taiwna Government PhD Fellowship for Studying Abroad (4 years full funding for studying PhD in U.S.)
+2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
+
+2017 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best students in psychology/neuroscience domain. Only one student for each year.)*
 
 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 
