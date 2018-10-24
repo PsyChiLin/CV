@@ -39,7 +39,7 @@ Degree: B.S. Psychology
 
 # PROFESSIONAL EXPERIENCE
 
-## NTU, Language Neuroscience Laboratory (Mentor: Prof. Tai-Li Chou)
+## NTU, Language Neuroscience Laboratory (Mentor: Prof. Tai-Li Chou) \hfill 2017/2-Now
 
 -- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
 
@@ -54,7 +54,7 @@ subjects and schizophrenia patients.
 
 -- Establish a model to interpret the mechanism of human empathy.
  
-## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu)
+## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu) \hfill 2014/9-Now
 
 -- Pioneer Taiwan’s fNIRS research to explore the neural mechanism of first impression formation.
 
@@ -66,7 +66,7 @@ subjects and schizophrenia patients.
 
 -- Design developmental experiments to understand the interaction between ToM, empathy and social development.
 
-## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen)
+## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen) \hfill 2014/9-Now
 
 -- Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
 
@@ -74,23 +74,27 @@ subjects and schizophrenia patients.
 
 -- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
 
-## NCKU, Institute of Education (Mentor: Prof. Ching-Fan Sheu)
+## NCKU, Institute of Education (Mentor: Prof. Ching-Fan Sheu) \hfill 2016/2-Now
 
 -- Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R
 
 -- Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis
 
+## NTHU, Institute of Education (Mentor: Prof. Ching-Fan Sheu) \hfill 2016/2-Now
+
 # PUBLICATIONS
 
 ## Journal Articles
+
+Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases:  When Experimental Psychology Meets Artificial Intelligence. This paper will be printed in *Chinese Journal of Psychology* on 2018/01/31. *(As the co-first author)*
 
 **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
 
 **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
 
-## Journal Articles : Under Review
+## Journal Articles : Under Review/Revision
 
-**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy” (First Round Revision, *Behavioral Research Methods*)
+**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
 
 **Yu, C. L.** & Chou, T. L. “A Dual Route Model of Empathy: A Neurobiological Prospective”
 
