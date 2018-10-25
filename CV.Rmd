@@ -88,6 +88,8 @@ subjects and schizophrenia patients.
 
 Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases:  When Experimental Psychology Meets Artificial Intelligence. This paper will be printed in *Chinese Journal of Psychology* on 2018/01/31. *(As the co-first author)*
 
+**Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, X(X), X.
+
 **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
 
 **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
@@ -95,8 +97,6 @@ Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Co
 ## Journal Articles : Under Review/Revision
 
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
-
-**Yu, C. L.** & Chou, T. L. “A Dual Route Model of Empathy: A Neurobiological Prospective”
 
 Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
   
