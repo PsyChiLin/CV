@@ -114,7 +114,9 @@ Hu, J. F., **Yu, C. L.**, Hsiao, Y. R., Chou, L. F. & Wang, P, L. “The Develop
 
 ## Conference Presentations
 
-**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+**Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
+
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
 
@@ -182,6 +184,8 @@ Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and
 Computer programing: R, MATLAB, SPM, E-PRIME, HOMER, Oro.Nifti, ANTsR, fslR
 
 # SELECTED EXTRACURRICULAR
+
+2018 Volunteer Assistant, The 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9)
 
 2016 Valedictorian, Department of Psychology, NCKU
 
