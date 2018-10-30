@@ -31,7 +31,7 @@ urlcolor: blue
 
 National Taiwan University (NTU), Taipei, Taiwan \hfill 2017/2-2018/6
 
-Degree: M.S. Psychology
+Degree: M.S. Psychology (Thesis: *“Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”*)
 
 National Cheng Kung University (NCKU), Tainan, Taiwan  \hfill 2012/9-2016/7
 
@@ -56,23 +56,23 @@ subjects and schizophrenia patients.
  
 ## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu) \hfill 2014/9-Now
 
--- Pioneer Taiwan’s fNIRS research to explore the neural mechanism of first impression formation.
+-- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
 
 -- Adopt behavioral experiments in embodied perspective to probe semantic properties of emotion words.
 
--- Develop fMRI study to investigate the underlying relationships between ToM and humor processing.
+-- Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
 
--- Establish the valid and reliable scale to measure self-report empathy ability
+-- Establish valid and reliable scales to measure self-report empathy ability.
 
 -- Design developmental experiments to understand the interaction between ToM, empathy and social development.
 
 ## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen) \hfill 2014/9-Now
 
--- Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
+-- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
+
+-- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
 
 -- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
-
--- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
 
 ## NCKU, Institute of Education (Mentor: Prof. Ching-Fan Sheu) \hfill 2016/2-Now
 
@@ -80,15 +80,19 @@ subjects and schizophrenia patients.
 
 -- Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis
 
-## NTHU, Institute of Education (Mentor: Prof. Ching-Fan Sheu) \hfill 2016/2-Now
+## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2018/7-Now
+
+-- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children
+
+-- Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semanti cprocessing in patients with alexithymia
 
 # PUBLICATIONS
 
 ## Journal Articles
 
-Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases:  When Experimental Psychology Meets Artificial Intelligence. This paper will be printed in *Chinese Journal of Psychology* on 2019/01/31. *(As the co-first author)*
+Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. This paper has been accepted in *Chinese Journal of Psychology* on 2018/10/26 and will be available on 2019/01/31 (*As the co-first author*).
 
-**Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, X(X), X.
+**Yu, C. L.** & Chou, T. L. (Accepted). A Dual Route Model of Empathy: A Neurobiological Prospective. This paper has been accepted in *Frontiers in Psychology* on 2018/10/25 and will be available soon.
 
 **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
 
@@ -98,7 +102,7 @@ Chen, D. Y.,**Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Co
 
 **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
 
-Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
+Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” (*As the corresponding author*)
   
 ## Journal Articles : In Preparation
 
@@ -106,7 +110,7 @@ Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of 
 
 **Yu, C. L.**, Causeur D., Shen, I. H., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 
-**Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
+**Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” (*As the co-first author*)
 
 **Yu, C. L.**, Hu, J. F., Chu, C. & Chuang Y. Y. “The Impact of Facial Expressions On the Rating of Valence, Arousal, and Typicality for Positive and Negative Emotion Words: An Embodied Cognition Approach”
 
@@ -153,7 +157,9 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 
 2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
 
-2017 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best students in psychology/neuroscience domain. Only one student for each year.)*
+2017 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. 
+
+-- *This funding supports the best student in psychology/neuroscience domain. Only one student for each year.*
 
 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 
