@@ -15,7 +15,7 @@ fontawesome: no
 email: psychilinyu@gmail.com
 phone: "+886-970992503"
 github: PsyChiLin
-#web: psychilin.github.io
+web: psychilin.github.io
 updated: no
 
 keywords: R Markdown, academic CV, template
