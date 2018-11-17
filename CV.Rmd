@@ -53,7 +53,21 @@ subjects and schizophrenia patients.
 -- Design a new analysis method that implement machine learning algorithms to analyze near functional infrared spectroscopy (fNIRS) data.
 
 -- Establish a model to interpret the mechanism of human empathy.
+
+## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen) \hfill 2014/9-Now
+
+-- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
+
+-- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
+
+-- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
  
+## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2018/7-Now
+
+-- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
+
+-- Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
+
 ## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu) \hfill 2014/9-Now
 
 -- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
@@ -66,25 +80,11 @@ subjects and schizophrenia patients.
 
 -- Design developmental experiments to understand the interaction between Theory of Mind, empathy and social development.
 
-## NCKU, Cognitive and Affective Neuroscience Laboratory (Mentor: Prof. Der-Yow Chen) \hfill 2014/9-Now
-
--- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
-
--- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
-
--- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
-
 ## NCKU, Institute of Education (Mentor: Prof. Ching-Fan Sheu) \hfill 2016/2-Now
 
 -- Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R.
 
 -- Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis.
-
-## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2018/7-Now
-
--- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
-
--- Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semanti cprocessing in patients with alexithymia.
 
 # PUBLICATIONS
 
