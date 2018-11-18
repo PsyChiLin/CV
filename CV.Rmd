@@ -43,10 +43,9 @@ Degree: B.S. Psychology
 
 -- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
 
--- Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.
+-- Identify aberrant cognitive organizations in patients with autism spectrum disorder (ASD) and propose a framework for their atypical social processing.
 
--- Understand the differences in neural correlates of semantic processing between typical developing
-subjects and schizophrenia patients.
+-- Understand the differences in neural correlates of semantic processing between typical developing subjects and schizophrenia patients.
 
 -- Investigate language comprehension and the corresponding neural activities in bilingual adults.
 
@@ -62,11 +61,13 @@ subjects and schizophrenia patients.
 
 -- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
  
-## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2018/7-Now
+## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2017/11-Now
 
 -- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
 
 -- Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
+
+-- Investigate neural correlates of reward processing in individuals with Attention Deficit Hyperactivity Disorder (ADHD)
 
 ## NCKU, Language Acquisition and Cognitive Development Laboratory (Mentor: Prof. Jon-Fan Hu) \hfill 2014/9-Now
 
