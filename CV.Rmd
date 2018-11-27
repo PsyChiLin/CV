@@ -67,7 +67,7 @@ Degree: B.S. Psychology
 
 -- Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis.
 
--- Establish enducation programs for teaching statistics, markdown, and R
+-- Establish education programs for teaching statistics, markdown, and R
  
 ## NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee) \hfill 2017/11-Now
 
