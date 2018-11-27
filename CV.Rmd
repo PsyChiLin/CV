@@ -73,7 +73,7 @@ Degree: B.S. Psychology
 
 -- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
 
--- Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
+-- Design behavioral and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
 
 -- Investigate neural correlates of reward processing in individuals with Attention Deficit Hyperactivity Disorder (ADHD)
 
