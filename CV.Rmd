@@ -57,7 +57,7 @@ Degree: B.S. Psychology
 
 -- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
 
--- Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
+-- Probe the underlying mentalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
 
 -- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
 
@@ -191,7 +191,7 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 
 Languages: Mandarin: Native Fluency; English/Taiwanese: Excellent Fluency
    
-Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and Analysis, Statical Modeling
+Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and Analysis, Statistical Modeling
 
 Computer programing: R, MATLAB, SPM, E-PRIME, HOMER, Oro.Nifti, ANTsR, fslR
 
