@@ -45,15 +45,15 @@ Degree: B.S. Psychology
 
 ## NTU, Language Neuroscience Laboratory (Mentor: Prof. Tai-Li Chou) \hfill 2017/2-Now
 
--- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
+-- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typically developing children.
 
 -- Identify aberrant cognitive organizations in patients with autism spectrum disorder (ASD) and propose a framework for their atypical social processing.
 
--- Understand the differences in neural correlates of semantic processing between typical developing subjects and schizophrenia patients.
+-- Understand the differences in neural correlates of semantic processing between typically developing subjects and schizophrenia patients.
 
 -- Investigate language comprehension and the corresponding neural activities in bilingual adults.
 
--- Design a new analysis method that implement machine learning algorithms to analyze near functional infrared spectroscopy (fNIRS) data.
+-- Design a new analysis method implementing machine learning algorithms to analyze near functional infrared spectroscopy (fNIRS) data.
 
 -- Establish a model to interpret the mechanism of human empathy.
 
@@ -61,7 +61,7 @@ Degree: B.S. Psychology
 
 -- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
 
--- Probe the underlying mentalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology and artificial intelligence perspectives.
+-- Probe the underlying mentalizing processes and cognitive abilities of playing Chinese Go from experimental psychology and artificial intelligence perspectives.
 
 -- Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
 
@@ -91,7 +91,7 @@ Degree: B.S. Psychology
 
 -- Establish valid and reliable scales to measure self-report empathy ability.
 
--- Design developmental experiments to understand the interaction between Theory of Mind, empathy and social development.
+-- Design developmental experiments to understand the interaction between Theory of Mind, empathy, and social development.
 
 # PUBLICATIONS
 
