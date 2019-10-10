@@ -41,85 +41,44 @@ National Cheng Kung University (NCKU), Tainan, Taiwan  \hfill 2012/9-2016/7
 
 Degree: B.S. Psychology
 
-# PROFESSIONAL EXPERIENCE
-
-## UM, Infant Cognition Project, Mentor: Prof. Henry Wellman
-
--- Explore the relationship between Theory of Mind and language development in deaf children with cochlear implants or hearing aids
-
-## UM, Language & Literacy Lab, Mentor: Prof. Ioulia Kovelman
-
--- Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children
-
-## NTU, Language Neuroscience Laboratory, Mentor: Prof. Tai-Li Chou
-
--- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of Theory of Mind in typically developing children and children with autism spectrum disorder (ASD)
-
--- Design a new analysis method implementing machine learning algorithms to analyze fNIRS data.
-
--- Establish a conceptual model to interpret the mechanism of human empathy.
-
-## NCKU, Cognitive and Affective Neuroscience Laboratory, Mentor: Prof. Der-Yow Chen
-
--- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
-
--- Probe the underlying mentalizing processes and cognitive abilities to play Chinese Go from experimental psychology and artificial intelligence perspectives.
-
-## NCKU, Institute of Education, Mentor: Prof. Ching-Fan Sheu
-
--- Design a user-friendly web application for exploratory factor analysis (EFA) by using the shiny package in R.
-
--- Develop exploratory graphical tools for Event-Related Potentials (ERPs) and fNIRS data analysis.
- 
-## National Tsing Hua University, Developmental Language Neuroscience Laboratory, Mentor: Prof. Shu-Hui Lee
-
--- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typically developing children.
-
--- Design behavioral and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
-
-## NCKU, Language Acquisition and Cognitive Development Laboratory, Mentor: Prof. Jon-Fan Hu
-
--- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
-
--- Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
+# RESEARCH INTERESTS
+I focus on social cognition in children and adults via behavioral experiments, neuroimaging techniques, and computational modeling. Specific topics include the underlying mechanism of Theory of Mind (ToM), the development of ToM, how ToM become dysfunction in autism as well as deaf populations, and also designing advanced data analyses methods to answer all the aforementioned theoretical questions.
 
 # PUBLICATIONS
 
-## Journal Articles
+1. Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (in press). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
 
-Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (in press). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. This paper in *Chinese Journal of Psychology* will be available in September, 2019 (*As the co-first author*).
+2. **Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
-**Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+3. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
 
-**Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+4. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
-**Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
+# PRESENTATIONS
 
-## Conference Presentations
+1. **Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", will be presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-**Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", will be presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+2. **Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
 
-**Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
+3. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+4. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
 
-**Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
+5. **Yu, C. L.** & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
 
-**Yu, C. L.** & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
+6. **Yu, C. L.**, Causeur, D., Lee, Y. s. & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
 
-**Yu, C. L.**, Causeur, D., Lee, Y. s. & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+7. **Yu, C. L.**, Causeur, D., Shen, I. H. & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
 
-**Yu, C. L.**, Causeur, D., Shen, I. H. & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+8. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R. & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-**Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R. & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+9. Chu, C., **Yu, C. L.**, Chuang Y. Y., Tsai Y. L. & Hu, J. F. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-Chu, C., **Yu, C. L.**, Chuang Y. Y., Tsai Y. L. & Hu, J. F. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+10. Tsai Y. L.,**Yu, C. L.**, Hsiao, Y. R., Cho, S. L., Chen, H. C. & Hu, J. F. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
-Tsai Y. L.,**Yu, C. L.**, Hsiao, Y. R., Cho, S. L., Chen, H. C. & Hu, J. F. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+11. Chuang Y. Y., **Yu, C. L.**, Chu, C., Tsai Y. L. & Hu, J. F.(2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
 
-Chuang Y. Y., **Yu, C. L.**, Chu, C., Tsai Y. L. & Hu, J. F.(2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
-
-Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
+12. Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
 
 # AWARDS & FELLOWSHIPS
 
@@ -162,31 +121,44 @@ Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasi
 # JOURNAL REVIEWER
 -- Advances in Methods and Practices in Psychological Science
 
-# SKILLS
+# RESEARCH EXPERIENCE
 
-Languages: Mandarin: Native Fluency; English/Taiwanese: Comprehensible Fluency
-   
-Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and Analysis, Statistical Modeling
+## UM, Infant Cognition Project, Mentor: Prof. Henry Wellman
 
-Computer programing: R, MATLAB, SPM, E-PRIME, HOMER, Oro.Nifti, ANTsR, fslR
+-- Explore the relationship between Theory of Mind and language development in deaf children with cochlear implants or hearing aids
 
-# SELECTED EXTRACURRICULAR
+## UM, Language & Literacy Lab, Mentor: Prof. Ioulia Kovelman
 
-2018 Volunteer Assistant, The 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9)
+-- Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children
 
-2016 Valedictorian, Department of Psychology, NCKU
+## NTU, Language Neuroscience Laboratory, Mentor: Prof. Tai-Li Chou
 
-2015 Representatives of Students in School, Department of Psychology, NCKU
+-- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of Theory of Mind in typically developing children and children with autism spectrum disorder (ASD)
 
-2015 Chief Counselor, Psychology Summer Camp, NCKU
+-- Design a new analysis method implementing machine learning algorithms to analyze fNIRS data.
 
-2015 Volunteer Assistant, The 7th Annual Taiwan Association of Clinical Psychology Meeting 
+-- Establish a conceptual model to interpret the mechanism of human empathy.
 
-2015 Symposium Student for resting state fMRI, Mind Research and imaging center, NCKU
+## NCKU, Cognitive and Affective Neuroscience Laboratory, Mentor: Prof. Der-Yow Chen
 
-2015 Symposium Student for Cognitive Neuroscience of Aging, Mind Research and imaging center,
-NCKU
+-- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
 
-2014 Activity Leader, The Night of Psychology, NCKU
+-- Probe the underlying mentalizing processes and cognitive abilities to play Chinese Go from experimental psychology and artificial intelligence perspectives.
 
-2013 Leader, The Week of Psychology, NCKU
+## NCKU, Institute of Education, Mentor: Prof. Ching-Fan Sheu
+
+-- Design a user-friendly web application for exploratory factor analysis (EFA) by using the shiny package in R.
+
+-- Develop exploratory graphical tools for Event-Related Potentials (ERPs) and fNIRS data analysis.
+ 
+## National Tsing Hua University, Developmental Language Neuroscience Laboratory, Mentor: Prof. Shu-Hui Lee
+
+-- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typically developing children.
+
+-- Design behavioral and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semantic processing in patients with alexithymia.
+
+## NCKU, Language Acquisition and Cognitive Development Laboratory, Mentor: Prof. Jon-Fan Hu
+
+-- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
+
+-- Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
