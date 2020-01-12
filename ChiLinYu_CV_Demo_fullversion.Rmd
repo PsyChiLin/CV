@@ -56,6 +56,14 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 5. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
+# PUBLICATIONS : In Preparation
+
+1. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. “Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”
+
+2. **Yu, C. L.**, Causeur D., Shen, I. H., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
+
+3. Hu, J. F., **Yu, C. L.**, Tsai Y. L., Hsiao, Y. R. & Chen, H. C. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” (*As the corresponding author*)
+
 # PRESENTATIONS
 
 1. **Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
@@ -170,3 +178,32 @@ I focus on social cognition in children and adults via behavioral experiments, n
 -- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
 
 -- Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
+
+# SKILLS
+
+Languages: Mandarin: Native Fluency; English/Taiwanese: Excellent Fluency
+
+Experimental skill: Experimental Design, Imaging Data Analysis, Scale Design and Analysis, Statistical Modeling
+
+Computer programing: R, MATLAB, SPM, E-PRIME, HOMER, Oro.Nifti, ANTsR, fslR
+
+# SELECTED EXTRACURRICULAR
+
+2018 Volunteer Assistant, The 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9)
+
+2016 Valedictorian, Department of Psychology, NCKU
+
+2015 Representatives of Students in School, Department of Psychology, NCKU
+
+2015 Chief Counselor, Psychology Summer Camp, NCKU
+
+2015 Volunteer Assistant, The 7th Annual Taiwan Association of Clinical Psychology Meeting 
+
+2015 Symposium Student for resting state fMRI, Mind Research and imaging center, NCKU
+
+2015 Symposium Student for Cognitive Neuroscience of Aging, Mind Research and imaging center,
+NCKU
+
+2014 Activity Leader, The Night of Psychology, NCKU
+
+2013 Leader, The Week of Psychology, NCKU
