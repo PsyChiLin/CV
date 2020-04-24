@@ -46,15 +46,17 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 # PUBLICATIONS
 
-1. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (in press). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, will be published online soon.
+1. **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (Under Review). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions.
 
-2. Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
+2. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(2), 1-14.
 
-3. **Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+3. Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
 
-4. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+4. **Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
-5. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
+5. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+
+6. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 # PRESENTATIONS
 
@@ -102,11 +104,7 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 2015 The title of outstanding student for the academic achievement
 
-2015 Tainan True Jesus Church outstanding student scholarship
-
-2015 Taiwan Ministry of Science and Technology Research Scholarship (Students : Wang, M. Y. , Yu, C. L., et al.; Project Number:104-2815-C-006-149–H)
-
-2014 Tainan True Jesus Church outstanding student scholarship
+2015 Taiwan Ministry of Science and Technology Research Scholarship
 
 # TEACHING EXPERIENCE
 
@@ -132,6 +130,8 @@ I focus on social cognition in children and adults via behavioral experiments, n
 -- Explore the relationship between Theory of Mind (ToM) and language development in deaf children with cochlear implants or hearing aids
 
 -- Develop a robust and valid ToM scale for preschoolers and school-age children
+
+-- Meta-analyze and summarize ToM studies in the literature to provide capture specificity, commonality, and generalizability of ToM development 
 
 ## UM, Language & Literacy Lab, Mentor: Prof. Ioulia Kovelman
 
