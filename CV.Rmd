@@ -60,29 +60,25 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 # PRESENTATIONS
 
-1. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+1. **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, poster to be presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
 
-2. **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
+2. Sun, X., Zhang, K. H., **Yu, C. L.**, Marks, R., Nickerson, N., Eggleston, R., … Kovelman, I. (2020). What does GIMME tell us about brain literacy networks? Mapping neural connectivity patterns in linguistically diverse children, poster to be presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
 
-3. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
+3. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-4. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
+4. **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
 
-5. **Yu, C. L.**, & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
+5. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
-6. **Yu, C. L.**, Causeur, D., Lee, Y. s., & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
+6. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience.
 
-7. **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
+7. **Yu, C. L.**, & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
 
-8. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+8. **Yu, C. L.**, Causeur, D., Lee, Y. s., & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
 
-9. Chu, C., **Yu, C. L.**, Chuang Y. Y., Tsai Y. L. & Hu, J. F. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+9. **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
 
-10. Tsai Y. L.,**Yu, C. L.**, Hsiao, Y. R., Cho, S. L., Chen, H. C., & Hu, J. F. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
-
-11. Chuang Y. Y., **Yu, C. L.**, Chu, C., Tsai Y. L., & Hu, J. F.(2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
-
-12. Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
+10. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
 
 # AWARDS & FELLOWSHIPS
 
@@ -123,6 +119,8 @@ I focus on social cognition in children and adults via behavioral experiments, n
 # JOURNAL REVIEWER
 -- Advances in Methods and Practices in Psychological Science
 
+-- Journal of Psychosocial Oncology
+
 # RESEARCH EXPERIENCE
 
 ## UM, Infant Cognition Project, Mentor: Prof. Henry Wellman
@@ -132,6 +130,8 @@ I focus on social cognition in children and adults via behavioral experiments, n
 -- Develop a robust and valid ToM scale for preschoolers and school-age children
 
 -- Meta-analyze and summarize ToM studies in the literature to provide capture specificity, commonality, and generalizability of ToM development 
+
+-- Examine the relationship between bilingualism and ToM
 
 ## UM, Language & Literacy Lab, Mentor: Prof. Ioulia Kovelman
 
