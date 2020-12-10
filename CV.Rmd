@@ -46,23 +46,25 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 # PUBLICATIONS
 
-1. **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
+1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms. *Journal of Child Psychology and Psychiatry*.
 
-2. **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (In Press). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*.
+2. **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Revision). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
 
-3. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*, 1-14.
+3. **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (In Press). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*.
 
-4. Chen, D. Y., **Yu, C. L. (*As the co-first author*)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
+4. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*, 1-14.
 
-5. **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+5. Chen, D. Y., **Yu, C. L. (*As the co-first author*)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
 
-6. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+6. **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
-7. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
+7. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+
+8. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 # SELECTED PRESENTATIONS
 
-1. **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, poster to be presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
+1. **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, presented as a virtual poster at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
 
 2. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 
