@@ -42,7 +42,7 @@ National Cheng Kung University (NCKU), Tainan, Taiwan  \hfill 2012/9-2016/7
 Degree: B.S. Psychology
 
 # RESEARCH INTERESTS
-I focus on social cognition in children and adults via behavioral experiments, neuroimaging techniques, and computational modeling. Specific topics include the underlying mechanism of Theory of Mind (ToM), the development of ToM, how ToM become dysfunction in autism as well as deaf populations, and also designing advanced data analyses methods to answer all the aforementioned theoretical questions.
+I focus on social cognition in children and adults via behavioral experiments, neuroimaging techniques, and computational modeling. Specific topics include the underlying mechanism of Theory of Mind (ToM), the development of ToM, and how ToM becomes dysfunctional in clinical populations.
 
 # PUBLICATIONS
 
