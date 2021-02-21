@@ -66,21 +66,21 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 1. **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020, October). *Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children.* Poster presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL), Virtual.
 
-2. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June) *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study*, Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
+2. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June). *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study.* Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
 
-3. **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9), Taipei.
+3. **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018, October). *Neural Changes Associated with Semantic Processing in Aged Schizophrenia.* Poster presented at the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9), Taipei.
 
-4. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM), Singapore.
+4. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018, June). *Aberrant Neural Organization of Theory of Mind in Youths with Autism.* Poster presented at the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM), Singapore.
 
-5. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience, Taipei.
+5. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018, March). *Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy.* Poster presented at the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience, Taipei.
 
-6. **Yu, C. L.**, & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
+6. **Yu, C. L.**, & Sheu, C. F. (2017, November). *EFAshiny: A shiny application for exploratory factor analysis.* Poster presented at 47th annual meeting of the Society for Computers in Psychology (SCiP).
 
-7. **Yu, C. L.**, Causeur, D., Lee, Y. s., & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting, Taipei.
+7. **Yu, C. L.**, Causeur, D., Lee, Y. s., & Sheu, C. F. (2017, October). *ggerp: An R Package for Graphical Explorations of Event-Related Potentials.* Symposium presentation at the 55th Annual Taiwan Psychology Association Meeting, Taipei.
 
-8. **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP), Boston.
+8. **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016, November). *Using R to explore ERP data.* Symposium presentation at the 46th annual meeting of the Society for Computers in Psychology (SCiP), Boston.
 
-9. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting, Pasadena.
+9. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015, July). *Using false belief task to explore the effect of empathy situation on theory of mind function.* Poster presented at the 37th Annual Cognitive Science Society Meeting, Pasadena.
 
 # AWARDS & FELLOWSHIPS
 
