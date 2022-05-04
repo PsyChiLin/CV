@@ -46,45 +46,57 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 # PUBLICATIONS
 
-1. **Yu, C. L.** & Wellman, H. M. (Under Review). Young Children Treat Puppets (and Dolls and Pictures) Like Real Persons.
+**Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Revision). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
 
-2. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
+Wellman, H. M., & **Yu, C. L.** (Under Review). Theory of puppets or theory of mind? Misunderstanding how children construe puppets in psychological research.
 
-3. **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
+**Yu, C. L.** & Wellman, H. M. (Accepted pending final revisions in *Cognitive Development*). Young Children Treat Puppets (and Dolls and Pictures) Like Real Persons.
 
-4. **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
+**Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*.
 
-5. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
+Sun, X., Marks, R., Zhang, K., **Yu, C. L.**, Eggleston, R., Nickerson, N., Chou, T.L., Hu, X.S., Tardif, T., Satterfield, T., & Kovelman, I. (In Press) Brain Bases of English Morphological Processing: A Comparison between Chinese-English, Spanish-English Bilingual, and English Monolingual Children. *Developmental Science*.
 
-6. Chen, D. Y., **Yu, C. L. (*As the co-first author*)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
+Sun, X., Zhang, Z., Marks, R., Karas, Z., Eggleston, E., Nickerson, N., **Yu, C. L.**, Wagley, N., Hu X., Caruso, V., Chou, T-L., Satterfield, T., Tardif, T., Kovelman, I. (2022). Morphological and phonological processing in English monolingual, Chinese-English bilingual, and Spanish-English bilingual children: An fNIRS neuroimaging dataset. *Data in Brief*, 42, 108048.
 
-7. **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+Sun, X., Zhang K., Marks, R., Nickerson, N., Eggleston, R., **Yu, C. L.**, Chou., T., Tardif, T., & Kovelman, I. (2022). What’s in a word? Cross-linguistic influences on Spanish-English and Chinese-English bilingual children’s word reading development. *Child Development*, *93*(1), 84-100.
 
-8. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+**Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
 
-9. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
+**Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
+
+Marks, R. A., Eggleston, R. L., Sun, X.,**Yu, C. L.**., Zhang, K., Nickerson, N., Hu, X.-S., & Kovelman, I. (2021). The neurocognitive basis of morphological processing in typical and impaired readers. *Annals of Dyslexia*, 1-23.
+
+**Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
+
+Chen, D. Y., **Yu, C. L. (co-first)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
+
+**Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+
+**Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+
+**Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 # SELECTED PRESENTATIONS
 
-1. **Yu, C. L.**, Heng, J., Wellman, H. M. (2021, April). *A Meta-Analysis of Progressions in Theory-of-Mind Understandings: Theory of Mind Scale Findings Across Different Contexts - An Initial Exploration.* Symposium presentation at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
+**Yu, C. L.** & Wellman, H. M. (2022, April). *Young Children Treat Puppets (and Dolls and Pictures) Like Real Persons.* Poster presented at the 2022 Biennial Meeting of the Cognitive Development Society (CDS), Madison.
 
-2. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (2021, April). *Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.* Poster presented at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
+**Yu, C. L.**, Eggleston, R., Kovelman, I., & Brennan, J. (2022, April). *Using functional near-infrared spectroscopy to study developmental aspects of naturalistic narrative comprehension.* Symposium presentation at the 2022 Biennial Meeting of the Cognitive Development Society (CDS), Madison.
 
-3. **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020, October). *Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children.* Poster presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL), Virtual.
+**Yu, C. L.**, Heng, J., Wellman, H. M. (2021, April). *A Meta-Analysis of Progressions in Theory-of-Mind Understandings: Theory of Mind Scale Findings Across Different Contexts - An Initial Exploration.* Symposium presentation at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
 
-4. **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June). *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study.* Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
+**Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (2021, April). *Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.* Poster presented at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
 
-5. **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018, October). *Neural Changes Associated with Semantic Processing in Aged Schizophrenia.* Poster presented at the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9), Taipei.
+**Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020, October). *Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children.* Poster presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL), Virtual.
 
-6. **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018, June). *Aberrant Neural Organization of Theory of Mind in Youths with Autism.* Poster presented at the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM), Singapore.
+**Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June). *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study.* Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
 
-7. **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018, March). *Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy.* Poster presented at the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience, Taipei.
+**Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018, June). *Aberrant Neural Organization of Theory of Mind in Youths with Autism.* Poster presented at the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM), Singapore.
 
-8. **Yu, C. L.**, & Sheu, C. F. (2017, November). *EFAshiny: A shiny application for exploratory factor analysis.* Poster presented at 47th annual meeting of the Society for Computers in Psychology (SCiP).
+**Yu, C. L.**, & Sheu, C. F. (2017, November). *EFAshiny: A shiny application for exploratory factor analysis.* Poster presented at 47th annual meeting of the Society for Computers in Psychology (SCiP), Vancouver.
 
-9. **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016, November). *Using R to explore ERP data.* Symposium presentation at the 46th annual meeting of the Society for Computers in Psychology (SCiP), Boston.
+**Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016, November). *Using R to explore ERP data.* Symposium presentation at the 46th annual meeting of the Society for Computers in Psychology (SCiP), Boston.
 
-10. **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015, July). *Using false belief task to explore the effect of empathy situation on theory of mind function.* Poster presented at the 37th Annual Cognitive Science Society Meeting, Pasadena.
+**Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015, July). *Using false belief task to explore the effect of empathy situation on theory of mind function.* Poster presented at the 37th Annual Cognitive Science Society Meeting (CogSci), Pasadena.
 
 # AWARDS & FELLOWSHIPS
 
@@ -96,13 +108,9 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 2020 Best Paper Award for Chinese Journal of Psychology in 2019 Academic Year
 
--- *This award is given to one best paper from the papers published in the Chinese Journal of Psychology from 2019.*
-
 2019 Weinberg Institute for Cognitive Science Graduate Fellowship
 
 2018 Taiwan Government PhD Scholarship for Studying Abroad: 4 years funding for studying PhD in the U.S. 
-
--- *This scholarship is awarded to one student per year who has the best academic achievement in psychology/neuroscience.*
 
 2018 Best Paper Award for the Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
 
@@ -110,77 +118,27 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 
--- *This scholarship is awarded to the top 10 best students with outstanding academic records from more than twenty thousand students in the entire university.*
-
 2015 The Title of Outstanding Student for the Academic Achievement
 
 2015 Taiwan Ministry of Science and Technology Research Scholarship
 
 # TEACHING EXPERIENCE
 
+2021 Graduate Student Instructor (GSI), Psychometric Theory, Mentor: Prof. Matthew Diemer
+
 2020 Graduate Student Instructor (GSI), Introduction to Developmental Psychology, Mentor: Dr. Kathleen Jodl
 
-2018 Teaching Assistant, Brain and Language Course, Mentor: Prof. Tai-Li Chou
+2018 Teaching Assistant, Brain and Language, Mentor: Prof. Tai-Li Chou
 
-2017 Teaching Assistant, General Psychology Course, Mentor: Prof. Tai-Li Chou
+2017 Teaching Assistant, General Psychology, Mentor: Prof. Tai-Li Chou
 
-2016 Teaching Assistant, Cognitive Neuroscience Course, Mentor: Prof. Shu-Lan Hsieh
+2016 Teaching Assistant, Cognitive Neuroscience, Mentor: Prof. Shu-Lan Hsieh
 
-2016 Teaching Assistant, Assessment Practicum Developmental Psychology Course, Mentor: Prof. Jon-Fan Hu
+2016 Teaching Assistant, Assessment Practicum Developmental Psychology, Mentor: Prof. Jon-Fan Hu
 
-2016 Teaching Assistant, Seminar on Emotion and Memory Course, Mentor: Prof. Der-Yow Chen
+2016 Teaching Assistant, Seminar on Emotion and Memory, Mentor: Prof. Der-Yow Chen
 
 # JOURNAL REVIEWER
 -- Advances in Methods and Practices in Psychological Science
 
 -- Journal of Psychosocial Oncology
-
-# RESEARCH EXPERIENCE
-
-## UM, Young Child Social Cognition Project, Mentor: Prof. Henry Wellman
-
--- Explore the relationship between Theory of Mind (ToM) and language development in deaf children with cochlear implants or hearing aids
-
--- Develop a robust and valid ToM scale for preschoolers and school-age children
-
--- Meta-analyze and summarize ToM studies in the literature to provide capture specificity, commonality, and generalizability of ToM development 
-
--- Examine the relationship between bilingualism and ToM
-
-## UM, Language & Literacy Lab, Mentor: Prof. Ioulia Kovelman
-
--- Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children
-
--- Implement naturalistic listening designs to investigate the underlying mechanism of ToM as well as language processing in typically developing children and children with dyslexia
-
-## NTU, Language Neuroscience Laboratory, Mentor: Prof. Tai-Li Chou
-
--- Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of ToM in typically developing children and children with autism spectrum disorder (ASD)
-
--- Design a new analysis method implementing machine learning algorithms to analyze fNIRS data.
-
--- Establish a conceptual model to interpret the mechanism of human empathy.
-
-## NCKU, Cognitive and Affective Neuroscience Laboratory, Mentor: Prof. Der-Yow Chen
-
--- Develop a hyper-scanning paradigm with multi-fMRI scanners to investigate the neural underpinnings of social interaction.
-
--- Probe the underlying mentalizing processes and cognitive abilities to play Chinese Go from experimental psychology and artificial intelligence perspectives.
-
-## NCKU, Institute of Education, Mentor: Prof. Ching-Fan Sheu
-
--- Design a user-friendly web application for exploratory factor analysis (EFA) using the shiny package in R.
-
--- Develop exploratory graphical tools for Event-Related Potentials (ERPs) and fNIRS data analysis.
- 
-## National Tsing Hua University, Developmental Language Neuroscience Laboratory, Mentor: Prof. Shu-Hui Lee
-
--- Develop fMRI studies to explore the neural correlates of Chinese classifiers in typically developing children.
-
--- Design behavioral and neuroimaging experiments to investigate the aberrant neural mechanisms of ToM and emotion-related semantic processing in patients with alexithymia.
-
-## NCKU, Language Acquisition and Cognitive Development Laboratory, Mentor: Prof. Jon-Fan Hu
-
--- Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
-
--- Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
