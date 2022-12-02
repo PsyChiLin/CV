@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.17)  30 SEP 2022 11:41
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.17)  30 NOV 2022 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -550,19 +550,19 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 115.
 [1
 
-] [2] 
+] [2] [3] 
 AED: lastpage setting LastPage
-[3] (./CV.aux)
+[4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: B6CEBEE7693F2AADD283C75E862A3E1E;909.
+(rerunfilecheck)             Checksum: AA973F002928407577BE615673FE5260;1039.
  ) 
 Here is how much of TeX's memory you used:
- 15287 strings out of 478132
- 310190 string characters out of 5852370
- 693109 words of memory out of 5000000
- 35734 multiletter control sequences out of 15000+600000
+ 15288 strings out of 478132
+ 310208 string characters out of 5852370
+ 694300 words of memory out of 5000000
+ 35735 multiletter control sequences out of 15000+600000
  477543 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,12n,118p,1191b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CV.pdf (3 pages).
+Output written on CV.pdf (4 pages).
